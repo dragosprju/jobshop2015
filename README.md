@@ -10,13 +10,17 @@ This is a static website manually made with pure HTML/CSS and Bootstrap. There's
 
 I like nice websites (Awwwards anyone?) and I've learned HTML/CSS at a young age, and so this was an opportunity where I was able to use my skills to develop something proper in the name of volunteering. Hence, it deserves a place in my repository.
 
-## Broken things
+## Screenshot
 
-The website survived well the passing of time. I like HTML/CSS since it is really portable. I have uploaded the catalogue as a separate PDF but the original version is still up on ISUUU. Some links obviously don't work, like the past editions links and whatnot.
+![Website Screenshot](screenshot.png)
 
 ## Language
 
 The original website is in Romanian, however I provided a Google Translate link at the top of the page. :)
+
+## Broken things
+
+The website survived well the passing of time. I like HTML/CSS since it is really portable. I have uploaded the catalogue as a separate PDF but the original version is still up on ISUUU. Some links obviously don't work, like the past editions links and whatnot.
 
 ## Changelog
 
