@@ -12,7 +12,12 @@ The website survived well the passing of time. I like HTML/CSS since it is reall
 
 ## Language
 
-The website is in Romanian, however I think it can be translated by Google Translate just like any website. 
+The website is in Romanian, however I think it can be translated by Google Translate just like any website. :)
+
+## Changelog
+
+2020-May-21: Removed Google and Facebook code snippets.
+2015-March: Created website. :)
 
 ## Copyright
 
