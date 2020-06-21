@@ -1,0 +1,1 @@
+ <?PHP header("Location: http://bestis.ro/cariere"); exit ?> 

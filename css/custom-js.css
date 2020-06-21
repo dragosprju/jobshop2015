@@ -1,0 +1,138 @@
+.sponsori-carousel {
+    clear: both;
+    width: 100%;
+}
+
+.fb-like-pos {
+    float: left; 
+    margin-left: -40px; 
+    margin-top: 10px;
+    margin-bottom: 6px;
+    z-index: 999;
+}
+
+/* sm */
+@media (min-width: 768px) {
+    .sponsori-carousel {
+        clear: both;
+        width: 100%;
+    }
+
+    .fb-like-pos {
+        float: left; 
+        margin-left: 10px; 
+        margin-top: 38px; 
+        z-index: 999;
+    }
+}
+/* md */
+@media (min-width: 992px) {
+    .sponsori-carousel {
+        clear: both;
+        width: 100%;
+    }
+}
+/* lg */
+@media (min-width: 1200px) {
+    .sponsori-carousel {
+            float: left;
+            width: 77%;
+    }
+}
+
+body { 
+    padding-top: 50px;
+    max-width: 100%;
+    overflow-x: hidden; }
+
+.jumbotron-bg {
+    margin-bottom: 0px;
+    background-image: url(../images/jumbotron-bg.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    min-height: 425px;
+}
+
+.jumbotron2-bg {
+    background-color: light-gray;
+}
+
+.jumbotron-title {
+	font-weight: 700;
+	font-size: 50px;
+}
+
+p.indent {
+	text-indent: 20px;
+}
+
+.same-height {
+    min-height: 375px;
+}
+
+.same-height-half {
+    min-height: 177px;
+}
+
+.navbar-shadow {
+    -webkit-box-shadow: 0 1px 10px 1px rgba(0, 0, 0, 0.5);
+       -moz-box-shadow: 0 1px 10px 1px rgba(0, 0, 0, 0.5);
+            box-shadow: 0 1px 10px 1px rgba(0, 0, 0, 0.5);
+}
+
+.table td, .table th {
+    text-align: center;
+}
+
+h3.name {
+    font-weight: bold;
+}
+
+.center {
+    display: table;
+    margin: 0 auto;
+}
+
+.img-center {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    background-color: #1666a7;
+}
+
+.best-table td {
+    padding: 6px;
+}
+
+.titlublog {
+    color: white;
+    text-decoration: underline;
+}
+
+.owl-item.cloned {
+    height: 0px;
+}
+
+ul.first-line {
+    float: left;
+    list-style: none;
+}
+
+ul.first-line li {
+    display: block;
+    float: left;
+}
+
+ul.first-line li.fb-like {
+
+}
+
+ul.first-line li.title {
+    margin-left: -40px;
+}

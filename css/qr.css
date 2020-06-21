@@ -1,0 +1,37 @@
+html, body, .container {
+    height: 100%;
+}
+
+.container {
+    display: table;
+    vertical-align: middle;
+}
+
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+body {
+    background-color: #79C4C4;
+}
+
+.text {
+    font-family: Tahoma. sans-serif;
+    color: #ED5946;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.btn-special {
+    background-color: #ED5946;
+    color: white;
+    font-weight: bold;
+}
+
+.text2 {
+    font-family: Tahoma. sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+}
