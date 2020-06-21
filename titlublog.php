@@ -67,7 +67,7 @@ function xTimeAgo($datetime)
 }
 
 	$rss = new DOMDocument();
-	$rss->load('http://iasi.jobshop.ro/blog/?feed=rss2');
+	$rss->load('https://iasi.jobshop.ro/blog/?feed=rss2');
 	$feed = array();
 	foreach ($rss->getElementsByTagName('item') as $node) {
 		$item = array ( 

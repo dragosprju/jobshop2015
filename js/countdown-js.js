@@ -1,4 +1,4 @@
-// http://www.ricocheting.com/code/javascript/html-generator/countdown-timer
+// https://www.ricocheting.com/code/javascript/html-generator/countdown-timer
 
 var CDown = function() {
 	this.state=0; // if initialized
