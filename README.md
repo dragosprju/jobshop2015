@@ -6,6 +6,16 @@ This is a static website manually made with pure HTML/CSS and Bootstrap. There's
 
 I like nice websites (Awwwards anyone?) and I've learned HTML/CSS at a young age, and so this was an opportunity where I was able to use my skills to develop something proper in the name of volunteering. Hence, it deserves a place in my repository.
 
+## Broken things
+
+The website survived well the passing of time. I like HTML/CSS since it is really portable. I have uploaded the catalogue as a separate PDF but the original version is still up on ISUUU. Some links obviously don't work, like the past editions links and whatnot.
+
+## Language
+
+The website is in Romanian, however I think it can be translated by Google Translate just like any website. 
+
 ## Copyright
 
-All the files in this repository are not to be modified and/or redistributed without my permission. Since I haven't looked at these files one-by-one for a long time, I haven't chosen a LICENSE - so the files in this repository are to remain in my exclusive copyright. Exceptions are files that already have a copyright (e.g. company logos) and files that already have a license that permit redistribution (e.g. Bootstrap).
+All the files in this repository are not to be modified and/or redistributed without my permission. Since I haven't looked at these files one-by-one for a long time, I don't know how to handle them so I haven't chosen a LICENSE. The files in this repository are to remain under my exclusive copyright. The exceptions are the files that already have a copyright (e.g. company logos) and files that already have a license that permit redistribution (e.g. Bootstrap).
+
+The purpose of this repository is for my archives.
