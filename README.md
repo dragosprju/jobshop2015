@@ -20,9 +20,16 @@ The original website is in Romanian, however I provided a Google Translate link 
 
 ## Changelog
 
-2020-May-21: Changed HTTP to HTTPS everywhere, since HTTPS wasn't required at that time.
 2020-May-21: Changed some Font Awesome icons to emojis, since Font Awesome wasn't working anymore for some reason.
+
+2020-May-21: Changed main logo link to local, relative link.
+
+2020-May-21: Changed HTTP to HTTPS everywhere, since HTTPS wasn't required at that time.
+
+2020-May-21: There is a catalogue on ISSUU. I have downloaded it offline and linked properly on the website.
+
 2020-May-21: Removed Google and Facebook code snippets.
+
 2015-March: Created website. :)
 
 ## Copyright
