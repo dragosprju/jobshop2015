@@ -1,6 +1,10 @@
 # JobShop 2015
 
-JobShop is a career fair event happening in Iași, Romania, held yearly by the student group BEST Iași. This is the 2015 variant, implemented by me at the time.
+[Romanian (Original) Version](https://dragosprju.github.io/jobshop/)
+
+[English (Translated) Version](https://translate.google.com/translate?sl=ro&tl=en&u=https%3A%2F%2Fdragosprju.github.io%2Fjobshop%2F)
+
+JobShop is a career fair event happening in Iași, Romania, held yearly by the student group BEST Iași. This is the 2015 variant, implemented by me at the time. This is actually a national event, other cities' BEST groups e.g. BEST București, BEST Cluj and BEST Timișoara would also do their own JobShop version.
 
 This is a static website manually made with pure HTML/CSS and Bootstrap. There's also some JavaScript and some PHP. At the time, I was better at developing in HTML/CSS than at using Wordpress (I know, right?) and the student group needed a face-lift for their website presence, so I was chosen to start building from scratch the website of the most important event of the group (being JobShop).
 
@@ -12,10 +16,12 @@ The website survived well the passing of time. I like HTML/CSS since it is reall
 
 ## Language
 
-The website is in Romanian, however I think it can be translated by Google Translate just like any website. :)
+The original website is in Romanian, however I provided a Google Translate link at the top of the page. :)
 
 ## Changelog
 
+2020-May-21: Changed HTTP to HTTPS everywhere, since HTTPS wasn't required at that time.
+2020-May-21: Changed some Font Awesome icons to emojis, since Font Awesome wasn't working anymore for some reason.
 2020-May-21: Removed Google and Facebook code snippets.
 2015-March: Created website. :)
 
